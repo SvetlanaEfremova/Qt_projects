@@ -1,0 +1,4 @@
+C:/skillbox/task_37_4/task_37_4_1_new/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/skillbox/task_37_4/task_37_4_1_new/cmake-build-debug/CMakeFiles/task_37_4_1_new.dir
+C:/skillbox/task_37_4/task_37_4_1_new/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/skillbox/task_37_4/task_37_4_1_new/cmake-build-debug/CMakeFiles/task_37_4_1_new_autogen.dir

@@ -1,0 +1,1 @@
+Various _Qt_ projects created using _Qt Creator_ or _CLion_.

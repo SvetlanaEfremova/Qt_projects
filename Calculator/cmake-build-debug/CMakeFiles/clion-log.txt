@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\skillbox\task_37_4\task_37_4_1_new
+CMake Error at C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake:28 (cfind_package):
+  Unknown CMake command "cfind_package".
+Call Stack (most recent call first):
+  CMakeLists.txt:21 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/skillbox/task_37_4/task_37_4_1_new/cmake-build-debug/CMakeFiles/CMakeOutput.log".

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4ed1ad869afb6bd284d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "moving_circle",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "moving_circle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moving_circle-Debug-308667831f37a380625c.json",
+					"name" : "moving_circle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moving_circle_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moving_circle_autogen-Debug-05e4096426eab6551c81.json",
+					"name" : "moving_circle_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moving_circle_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moving_circle_autogen_timestamp_deps-Debug-47a3ce9d370814d8751e.json",
+					"name" : "moving_circle_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt projects/Moving circle/cmake-build-debug",
+		"source" : "C:/Qt projects/Moving circle"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

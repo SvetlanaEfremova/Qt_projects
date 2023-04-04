@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/Qt projects/Moving circle/cmake-build-debug/moving_circle_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Qt projects/Moving circle/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Qt projects/Moving circle/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Qt projects/Moving circle",
+	"CMAKE_SOURCE_DIR" : "C:/Qt projects/Moving circle",
+	"INCLUDE_DIR" : "C:/Qt projects/Moving circle/cmake-build-debug/moving_circle_autogen/include",
+	"INPUTS" : [ "C:/Qt projects/Moving circle/main.qml" ],
+	"LOCK_FILE" : "C:/Qt projects/Moving circle/cmake-build-debug/CMakeFiles/moving_circle_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/5.15.2/msvc2019_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Qt projects/Moving circle/cmake-build-debug/CMakeFiles/moving_circle_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Qt projects/Moving circle/qml.qrc",
+	"VERBOSITY" : 0
+}
